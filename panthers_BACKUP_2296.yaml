@@ -1,0 +1,19 @@
+team: Panthers
+
+manager: Sebastian
+
+members:
+- Violet
+- Stella
+<<<<<<< HEAD
+- Anthony
+<<<<<<< HEAD
+- freddie
+=======
+
+coach :
+- teddy
+>>>>>>> add-coach
+=======
+- Anthony
+>>>>>>> parent of 9a70333 (add coach teddy to panthers)
